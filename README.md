@@ -34,4 +34,4 @@ This project was created to solidify my understanding of core ML concepts and cl
 - Use a real-world dataset
 - Apply cross-validation
 - Introduce confusion matrix, precision, recall, and F1-score
-- 
+  
